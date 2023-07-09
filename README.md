@@ -66,6 +66,6 @@ The `TrishaCipherTable()` method essentially generates the cipher table by mappi
 
 In this case, her message was "25-31-31-24 11-36 26-44 16-12 11-27-14 13-25-22-13-24 22-36-47 46."
 
-5. The program decrypts the message using Trisha's decoding table and displays the decoded message on the console.
+4. The program decrypts the message using Trisha's decoding table and displays the decoded message on the console.
 
    Example output: `Decoded Message from Trisha: LOOK AT MY FB AND CLICK IT. <3`
